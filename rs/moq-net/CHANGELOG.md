@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.14](https://github.com/moq-dev/moq/compare/moq-net-v0.1.13...moq-net-v0.1.14) - 2026-06-30
+
+### Other
+
+- track announcement byte usage in stats ([#1953](https://github.com/moq-dev/moq/pull/1953))
+
 ## [0.1.13](https://github.com/moq-dev/moq/compare/moq-net-v0.1.12...moq-net-v0.1.13) - 2026-06-30
 
 ### Added
